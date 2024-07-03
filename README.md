@@ -1,4 +1,4 @@
-## @vuepic/vue-datepicker
+## @vuepic/vue-datepicker [Customized calendar]
 
 
 ### The most complete datepicker solution for Vue 3
